@@ -1,0 +1,10 @@
+html, body, p, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Trebuchet MS';
+	color: #444;
+}
+
+
+
+body {
+	padding-top:25px;
+}
